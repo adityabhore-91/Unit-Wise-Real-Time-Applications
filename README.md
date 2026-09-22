@@ -102,8 +102,4 @@ OOP-CPP-Real-Time-Applications
 
 ---
 
-## Author
 
-**Student Name: Aditya Prabhakar Bhore 
-**Course:** Object Oriented Programming with C++
-**Course Code:** ADPC303
